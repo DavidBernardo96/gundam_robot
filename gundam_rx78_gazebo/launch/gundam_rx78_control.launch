@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<launch>
+
+  <node name="commander" pkg="gundam_rx78_gazebo" type="commander.py" required="true" output="screen"/> 
+
+</launch>
